@@ -1,5 +1,7 @@
 # Recomendador de Películas
 
+![download](https://github.com/user-attachments/assets/5b234e01-94bc-4703-9e8c-0795f67087c9)
+
 Este proyecto es un sistema de recomendación de películas que utiliza técnicas de filtrado colaborativo y descomposición en valores singulares (SVD), en su implementacion mas avanzada, el objetivo es proporcionar recomendaciones personalizadas a los usuarios.
 
 ## Técnicas Utilizadas en la Resolución de un Ejercicio de Recomendación de Películas: Cosine Similarity y SVD para la version mejorada.
