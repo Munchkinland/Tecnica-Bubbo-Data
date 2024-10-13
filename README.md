@@ -2,7 +2,7 @@
 
 Este proyecto es un sistema de recomendación de películas que utiliza técnicas de filtrado colaborativo y descomposición en valores singulares (SVD), en su implementacion mas avanzada, el objetivo es proporcionar recomendaciones personalizadas a los usuarios.
 
-# Técnicas Utilizadas en la Resolución de un Ejercicio de Recomendación de Películas: Cosine Similarity y SVD para la version mejorada.
+## Técnicas Utilizadas en la Resolución de un Ejercicio de Recomendación de Películas: Cosine Similarity y SVD para la version mejorada.
 
 En este documento, se presentan dos técnicas empleadas en la construcción de un sistema de recomendación de películas: Cosine Similarity y Singular Value Decomposition (SVD). Ambas se utilizan para resolver problemas relacionados con la identificación de preferencias de usuarios y la recomendación de contenidos, aunque tienen enfoques distintos.
 
